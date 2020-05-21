@@ -4,7 +4,8 @@ A cloud based remote android managment suite, powered by NodeJS
 </p>
 
 
-
+## Setup on Glitch
+## [Glitch](https://glitch.com)
 ## Features
 - GPS Logging
 - Microphone Recording
@@ -83,4 +84,4 @@ L3MON is built for both Educational and Internal use ONLY.</b>
 
 <br>
 <p align="center">Made with ❤️ By <a href="//d3vl.com">D3VL</a></p>
-<p align="center" style="font-size: 8px">v1.1.2</p># L3MON
+<p align="center" style="font-size: 8px">v1.1.2</p>
